@@ -1,1 +1,4 @@
-# TheraPepNet
+# TheraPepNet: Enhancing Therapeutic Peptide Recognition via Temporal Sequence Prediction Networks and Preprocessed Features
+Therapeutic peptides are increasingly valued in drug development for their specificity and biocompatibility. Unlike small-molecule drugs, they provide enhanced target specificity and fewer side effects. Current predictors often overlook the integration of sequential and physicochemical properties. To tackle this, we introduce TheraPepNet, a prediction model that utilizes multiple embedding strategies within a temporal learning network to effectively identify therapeutic peptides. It combines amino acid spectral features from Complex Fast Fourier Transform, pretrained feature vectors from ProtBERT, and biological encodings from the AAindex database. Cross-validation and independent testing demonstrate TheraPepNet’s strong performance and potential in bioengineering and clinical applications, accessible via its webserver at http://www.qdubiolab.top.
+# The dependencies required for TheraPepNet to run
+Refer to the environment. txt file
